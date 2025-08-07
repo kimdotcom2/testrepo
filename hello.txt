@@ -1,7 +1,2 @@
 v1
-<<<<<<< HEAD
-assff
 
-=======
-login
->>>>>>> 738a595 (Feat: Add login feature)
